@@ -1,6 +1,6 @@
 # Blobby
 
-Created bloddy, a file archiver from scratch using bit shift and C. made use of a complex recursive algorithm to traverse through every file and subdirectory in a given directory.
+Created bloddy, a file archiver from scratch using bit shift and C. made use of a sophisticated recursive algorithm to traverse through every file and subdirectory in a given directory.
 
 Given the -l command line argument blobby.c should for each file in the specified blob print:
 - The file/directory permissions in octal
